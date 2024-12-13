@@ -1,6 +1,88 @@
     @charset "UTF-8";
 
-   
+    /* =================================================================== 
+    * Booth Main Stylesheet
+    * Template Ver. 1.0.0
+    * 10-20-2021
+    * ------------------------------------------------------------------
+    *
+    * TOC:
+    * # SETTINGS
+    *      ## fonts 
+    *      ## colors 
+    *      ## spacing and typescale
+    *      ## grid variables
+    * # NORMALIZE
+    * # BASE SETUP
+    * # GRID
+    *      ## large screen devices
+    *      ## medium screen devices 
+    *      ## tablet devices 
+    *      ## mobile devices 
+    *      ## small screen devices 
+    *      ## additional column stackpoints 
+    * # UTILITY CLASSES
+    * # TYPOGRAPHY 
+    *      ## base type styles
+    *      ## additional typography & helper classes
+    *      ## lists
+    *      ## spacing
+    * # PRELOADER 
+    *      ## page loaded
+    * # FORM
+    *      ## style placeholder text
+    *      ## change autocomplete styles in Chrome
+    * # BUTTONS
+    * # TABLE
+    * # COMPONENTS
+    *      ## pagination
+    *      ## alert box 
+    *      ## skillbars
+    *      ## stats tabs
+    * # PROJECT-WIDE SHARED STYLES
+    *      ## theme-specific typography classes
+    *      ## media classes
+    *      ## section header
+    *      ## swiper overrides
+    * # PAGE WRAP
+    * # SITE HEADER
+    *      ## logo
+    *      ## main navigation
+    *      ## cta button
+    *      ## mobile menu toggle
+    * # INTRO
+    *      ## intro background
+    *      ## intro content
+    *      ## intro social
+    *      ## intro scroll
+    *      ## intro transitions
+    * # ABOUT
+    *      ## stats
+    *      ## info
+    *      ## screens
+    *      ## how-to
+    *      ## features
+    * # TESTIMONIALS
+    *      ## testimonial slider
+    * # PRICING
+    *      ## pricing plan blocks
+    * # DOWNLOAD
+    * # FOOTER
+    *      ## subscription form
+    *      ## footer logo
+    *      ## footer sitelinks
+    *      ## footer contact
+    *      ## footer social
+    *      ## copyright
+    *      ## go top
+    *
+    * ------------------------------------------------------------------ */
+
+    /* ===================================================================
+    * # SETTINGS
+    *
+    *
+    * ------------------------------------------------------------------- */
 
     /* ------------------------------------------------------------------- 
     * ## fonts 
@@ -3210,7 +3292,7 @@
         bottom              : 0;
         width               : 100%;
         height              : 100%;
-        /* background-image    : url(../images/cb.mp4); */
+        background-image    : url(../images/bg.png);
         background-repeat   : no-repeat;
         background-position : center;
         background-size     : cover;
